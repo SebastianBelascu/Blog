@@ -11,7 +11,7 @@ export default async function Home() {
     <>
       <section className='mb-8'>
         <H1>Welcome to my page!</H1>
-        <p>My name is Sebastian, I am a web developer.</p>
+        <p>My name is Sebastian, I am a Web Developer with a strong interest in Data Science.</p>
         <p>
           Checkout my{' '}
           <Link href='/blog' className='underline'>
