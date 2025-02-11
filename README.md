@@ -3,8 +3,10 @@
 This is a **static blog** built using **Next.js, MDX, and Frontmatter**. It features:
 
 - **Pagination** for navigating between blog posts.
-- **Filtering by date** to display the most recent content.
-- **Latest 3 posts** dynamically shown based on publication date.
+- **Filtering by date and tags** to display the most recent and relevant content.
+- **Latest posts** dynamically shown based on publication date.
+
+<img src="public/screenshots/homepage.png" height="600" width="600" />
 
 ## 🚀 Tech Stack
 - **Next.js** for the frontend.
@@ -24,9 +26,11 @@ This is a **static blog** built using **Next.js, MDX, and Frontmatter**. It feat
 ```
 
 ## 📌 Features
-- 📄 **Static blog using MDX** 
+- 📄 **Static blog using MDX**
+  <img src="public/screenshots/feature2.png" height="600" width="600" />
 - 📆 **Sorts posts by date automatically**
 - 🔄 **Pagination for easy navigation**
+  <img src="public/screenshots/feature1.png" height="600" width="600" />
 - 🎨 **Minimal design with Tailwind CSS**
 
 ---
