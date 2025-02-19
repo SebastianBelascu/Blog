@@ -29,10 +29,12 @@ This is a **static blog** built using **Next.js, MDX, and Frontmatter**. It feat
 - 📄 **Static blog using MDX**
   <br />
   <img src="public/screenshots/feature2.png" />
+  <br />
 - 📆 **Sorts posts by date automatically**
 - 🔄 **Pagination for easy navigation**
 <br />
 <img src="public/screenshots/feature1.png" />
-- 🎨 **Minimal design with Tailwind CSS**
+<br />
+- 🎨 Minimal design with Tailwind CSS
 
 ---
